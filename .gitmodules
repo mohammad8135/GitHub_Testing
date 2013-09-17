@@ -1,0 +1,3 @@
+[submodule "ThirdParty_Library/StandOut"]
+	path = ThirdParty_Library/StandOut
+	url = ../../pingpongboss/StandOut.git
